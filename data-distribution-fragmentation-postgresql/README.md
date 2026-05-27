@@ -1,4 +1,4 @@
-# Distribución y fragmentación de datos en PostgreSQL
+# DISTRIBUCIÓN Y FRAGMENTACIÓN DE DATOS EN POSTGRESQL 
 
 En esta nueva práctica con PostgreSQL vamos a trabajar la distribución y fragmentación de los datos.
 
