@@ -1,4 +1,4 @@
-# Automatización, Seguridad e Integridad en PostgreSQL (Caso Pagila)
+# AUTOMATIZACIÓN, SEGURIDAD E INTEGRIDAD EN POSTGRESQL (PAGILA) 
 
 ---
 
