@@ -1,4 +1,4 @@
-# ACTIVIDAD 3 - MYSQL
+# MYSQL
 
 ---
 
