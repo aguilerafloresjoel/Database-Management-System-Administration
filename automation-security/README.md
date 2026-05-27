@@ -14,7 +14,7 @@ Es por ello que el primer paso en esta práctica va a ser el de la descarga y pu
 
 ---
 
-Para hacer la instalación de PostgreSQL-18 (servidor) seguiremos los pasos de nuestra propia guía previa: https://github.com/mvm-classroom/install-postgresql-18-a-un-ubuntu-server-24-04-aguilera-joel 
+Para hacer la instalación de PostgreSQL-18 (servidor) seguiremos los pasos de nuestra propia guía previa: [https://github.com/mvm-classroom/install-postgresql-18-a-un-ubuntu-server-24-04-aguilera-joel ](https://github.com/aguilerafloresjoel/Database-Management-System-Administration/tree/main/installing-postgresql-on-ubuntu-server)
 
 ---
 
