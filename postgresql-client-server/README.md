@@ -1,4 +1,4 @@
-# ACTIVIDAD 2 - Sistemas Cliente - Servidor con PostgreSQL
+# Sistemas Cliente - Servidor con PostgreSQL
 
 ---
 
