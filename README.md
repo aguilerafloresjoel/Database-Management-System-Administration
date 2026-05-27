@@ -34,9 +34,11 @@ Collection of labs, projects and documentation focused on database administratio
 ## Repository Structure
 
 ```text
+installing-postgresql-on-ubuntu-server/
 postgresql-client-server/
 mysql-client-server/
+data-distribution-fragmentation-postgresql/
 heterogeneous-replication/
-monitoring-maintenance/
+monitoring-maintenance-postgresql/
 postgresql-high-availability/
 automation-security/
